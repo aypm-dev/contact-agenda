@@ -5,18 +5,24 @@ Simple contact agenda, use it to save your favorite contacts including their ema
 With a new design methodology where the final user has to use the website with 50% of zoom. This was designed like this to appeal to younger generations and promote global peace! 
 
 
+
 # Why?
 
 This page is a nice side project to test my abilities with Svelte in a limited amount of time.
 
 Build with Svelte. This page helped me to understand the surface of TypeScript, and how the setup to use it with Svelte works (Kinda easy ngl, that's why I love Svelte). I did all the UI elements by hand and with Tailwind css. 
 
-Also I used the browserLocalGet and browserLocalSet, thats kinda cool to.
+Also I used browserLocalGet and browserLocalSet, thats kinda cool too.
+
+
+
 
 
 ## Can I borrow this app without giving you credit?
 
 Of course, why not. I'm doing my best to make the code readable, even tho this app is absolutely tiny I think I did a good job with this one. But to be honest, I don't think someone would read this at all so.. yeah use it as you please.
+
+
 
 ## Building
 
